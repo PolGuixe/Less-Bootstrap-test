@@ -1,0 +1,13 @@
+{
+  "name": "less-bootstrap-test",
+  "private": true,
+  "version": "0.0.1",
+  "main": "less-bootstrap-test.js",
+  "scripts": {
+    "start": "meteor run",
+    "test": "meteor test-app --driver-package practicalmeteor:mocha"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
